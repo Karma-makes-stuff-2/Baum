@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tree {
+public class Baum {
 
     public static void main(String[] args){
 
